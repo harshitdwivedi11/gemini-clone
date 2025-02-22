@@ -1,8 +1,8 @@
 # 🌟 Gemini AI Clone
 
-A **Gemini AI Clone** built using **React.js** and the **Gemini API** to generate text responses dynamically.
+A **Gemini AI Clone** built using **React.js** and the **Gemini API**.
 
-![Gemini Clone] file:///Users/harshitdwivedi/Documents/Screenshot%202025-02-23%20at%2012.01.43%E2%80%AFAM.png
+![Gemini Clone](https://github.com/user-attachments/assets/68f83636-e586-4765-9e46-3dac10bfe80e)
 
 ## 🚀 **Live Demo**
 🔗 [Click here to view the project](https://gemini-clone-hzsm.vercel.app/)
